@@ -1,4 +1,4 @@
-# projeto-site-divulgacao-cursos
+# Projeto Site Divulgação de Cursos
 
 Colocar uma foto de fundo
 
@@ -15,3 +15,12 @@ Colocar uma foto de fundo
  Texto de data de início com cor da letra preta e fundo branco(fundo só do texto)
 
  Inserir Favicon no site
+
+
+ ## Tecnologias
+
+- HTML
+
+- CSS
+
+
